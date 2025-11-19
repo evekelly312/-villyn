@@ -1,6 +1,5 @@
 """
 Módulo com a classe que realiza a Regressão Linear Simples.
-
 A regressão linear simples é usada para encontrar a melhor linha
 que representa a relação entre duas variáveis (X e Y).
 """
@@ -8,7 +7,6 @@ que representa a relação entre duas variáveis (X e Y).
 
 class SimpleLinearRegression:
     """Classe para realizar regressão linear simples."""
-
     def __init__(self):
         self.b0 = 0  # Intercepto
         self.b1 = 0  # Inclinação
