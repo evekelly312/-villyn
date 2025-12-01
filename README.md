@@ -2,7 +2,7 @@
 
 Repositório para armazenar todos os trabalhos da disciplina de tópicos especiais em desenvolvimento
 
-> made by: nomeDaEquipe
+> made by: Évillyn 
 
 <div style="margin-bottom: 10px; background: white; border-radius: 12px; padding: 20px; box-shadow: 0 6px 12px rgba(0,0,0,0.1); display: flex; align-items: center; gap: 20px; transition: transform 0.3s;">
 <a href="https://github.com/evekelly312" target="_blank" style="text-decoration: none; color: inherit; display: flex; align-items: center; gap: 20px; width: 100%;">
