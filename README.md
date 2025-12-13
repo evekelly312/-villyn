@@ -2,16 +2,8 @@
 
 Repositório para armazenar todos os trabalhos da disciplina de tópicos especiais em desenvolvimento
 
-> made by: Évillyn 
+> made by: Évillyn Ibiapina; Bianca da Silva; Claryanne Mel; Geilson Santos; Kauanny Maria
 
-<div style="margin-bottom: 10px; background: white; border-radius: 12px; padding: 20px; box-shadow: 0 6px 12px rgba(0,0,0,0.1); display: flex; align-items: center; gap: 20px; transition: transform 0.3s;">
-<a href="https://github.com/evekelly312" target="_blank" style="text-decoration: none; color: inherit; display: flex; align-items: center; gap: 20px; width: 100%;">
-<img src="https://github.com/evekelly312.png" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; border: 2px solid #e0e0e0;"/>
-<div>
-<h3 style="margin: 0 0 5px 0; color: #333;">Évillyn Kelle Ibiapina Costa</h3>
-</div>
-</a>
-</div>
 
 ## ⚙️ Como rodar o projeto
 
